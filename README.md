@@ -25,12 +25,12 @@
 # CHANGES:
 
 # HTML
-* changed <div> sections to semantic HTML <header>, <footer>, <nav>, <section>, <article>
-* changed <title> from generic name more descriptive title about the page
+* changed div sections to semantic HTML header, footer, nav, section, article
+* changed title from generic name more descriptive title about the page
 * edited the id on search engine optimization to make the link work
-* changed <h3> to <h2> for the benefits header
+* changed h3 to h2 for the benefits header
 * added comments in HTML that described each section to make it easier to understand the flow of the page
-* added <alt> description tags to all of the images and graphics in the page for accessibility
+* added alt description tags to all of the images and graphics in the page for accessibility
 * changed class names in content and benefit section to combine same CSS rules
 * removed class from header and footer
 
