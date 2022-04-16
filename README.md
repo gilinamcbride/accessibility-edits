@@ -44,7 +44,7 @@
 
 # Assets
 The following image demonstrates the web application's appearance and functionality:
-(./assets/images/page-top.png)
-(./assets/images/page-bottom.png)
+![Image 1](./assets/images/page-top.png)
+![Image 2](./assets/images/page-bottom.png)
 
-Link to deployed application: file:///Users/gilinamcbride/repos/challenges/challenge1/sandbox/index.html#social-media-marketing
+[Link to deployed application](https://gilinamcbride.github.io/challenge-1-accessibility/)
