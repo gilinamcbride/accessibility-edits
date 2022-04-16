@@ -41,3 +41,10 @@
 * changed selectors in CSS to reflect semantic elements changes in HTML
 * rearragned CSS rules to create logical flow
 
+
+# Assets
+The following image demonstrates the web application's appearance and functionality:
+(./assets/images/page-top.png)
+(./assets/images/page-bottom.png)
+
+Link to deployed application: file:///Users/gilinamcbride/repos/challenges/challenge1/sandbox/index.html#social-media-marketing
