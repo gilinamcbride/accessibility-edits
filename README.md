@@ -1,4 +1,4 @@
-# challenge-1-accessibility
+# Accessibility Edits
 
 * Task: Modify starter HTML and CSS code to make Horiseon webpage more accessible and more optimized for SEO
 
