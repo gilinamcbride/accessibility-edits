@@ -48,3 +48,7 @@ The following image demonstrates the web application's appearance and functional
 ![Image 2](./assets/images/page-bottom.png)
 
 [Link to deployed application](https://gilinamcbride.github.io/accessibility-edits/)
+
+## Questions?
+
+For any questions, please email gilinamcbride@gmail.com, or visit any other projects on [Github](github.com/gilinamcbride).
